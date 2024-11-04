@@ -1,7 +1,7 @@
-f0e999088b390af8ba9164d105d40127 *DESCRIPTION
+e4c59ef36c3eb5314faade4537bd4183 *DESCRIPTION
 e3b60f11680221b9b3b9ce5863805b9b *LICENSE
 7c662a550e6080d712aa04f31f0f7c60 *NAMESPACE
-9ac7795f6e001df4ab74c312697a09d5 *NEWS.md
+328de52e02c6ebc019f8a7397e35949f *NEWS.md
 05946423203ad74bbda7af037ef4fc4e *R/aggregate_gt.R
 8506615ef3f59a1c817d63f9bb39aa72 *R/aux_funcs.R
 3b0de468d302acddc62559607fa9c8e1 *R/double_did.R
@@ -20,7 +20,7 @@ e24566849c34fcb49a03c1dee02b7d81 *inst/doc/double.html
 f0ab557c25c8a7448383bb86eba0c325 *inst/doc/misc.R
 e66890bb87fa60a986f38e38b4c000da *inst/doc/misc.Rmd
 4bf413db8b46978773971c2ba37b4986 *inst/doc/misc.html
-1d434fcbeee152a63df3b3fc907136be *inst/tinytest/test_1_fastdid.R
+9be336cd62b8fab94deb24c1cc60e00d *inst/tinytest/test_1_fastdid.R
 413c3c544d535a2e31c6f270cf49ddde *inst/tinytest/test_2_compare_est.R
 9136d98e16955b52fde0e7754a855ef1 *inst/tinytest/test_3_message.R
 bb68a31a9d4d2a7fe2e5f6afaea457b0 *inst/tinytest/test_4_double.R
