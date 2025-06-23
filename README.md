@@ -2,12 +2,14 @@
 
   <!-- badges: start -->
   [![R-CMD-check](https://github.com/TsaiLintung/fastdid/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/TsaiLintung/fastdid/actions/workflows/R-CMD-check.yaml)
+  [![](https://www.r-pkg.org/badges/version/fastdid?color=blue)](https://cran.r-project.org/package=fastdid)
+  [![CRANd](https://cranlogs.r-pkg.org/badges/grand-total/fastdid?color=blue)](https://CRAN.R-project.org/package=fastdid)
   <!-- badges: end -->
 
 fastdid implements the Difference-in-Differences (DiD) estimators in [Callaway and Sant'Anna's (2021)](https://doi.org/10.1016/j.jeconom.2020.12.001). fastdid is
 
   - fast, reducing the computation time with millions of units from hours to [seconds](https://tsailintung.github.io/fastdid/articles/misc.html#performance),
-  - flexible, allowing extensions such as [time-varying covariates](https://arxiv.org/abs/2406.15288) and [multiple events](https://arxiv.org/abs/2409.05184). 
+  - flexible, allowing extensions such as time-varying covariates [Caetano and Callaway, 2024](https://arxiv.org/abs/2406.15288) and multiple events ([Tsai 2024](https://arxiv.org/abs/2409.05184)). 
 
 # Getting Started
 
